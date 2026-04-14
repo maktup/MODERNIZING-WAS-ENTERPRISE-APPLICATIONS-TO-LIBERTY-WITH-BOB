@@ -1,0 +1,11 @@
+
+Ahora que se logró completar el PROMPT anterior, necesito que analices el proyecto JAVA LIBERTI migrado y:
+
+_ Analiza todos las inteterfaces JSP y INCLUDEs, para que no tengan problemas al ser visualizadas en la IDE de ECLIPSE. 
+_ Analiza en el proyecto JAVA LIBERTY todos los archivos de configuración y logica asociada a STRUTs, para saber si existen archivos duplicados o no necesarios y si es asi eliminalos. 
+_ Identifica las clases en todo el proyecto que esten duplicadas en diferentes paquetes (analizar y si esta duplicada eliminalas).
+_ Identifica los paquetes o source-folders de la migración anterior como: EJB, WEB, WEB-INF, porque si ya no se usan en esta nueva estructura de LIBERTY, deben ser eliminados.  
+_ Identidica archivos de configuracion y configuraciones innecesarias, porque sino afectan eliminalos.
+_ Valida y asegura aque todo el proyecto pueda compilar con MAVEN y desplegar con LIBERTY sin problemas.
+_ Realiza el todas de las acciones criticas requeridas mostradas en el RESUMEN EJECUTIVO, procede a eliminar, instalar y migrar todo lo mencionado. 
+
