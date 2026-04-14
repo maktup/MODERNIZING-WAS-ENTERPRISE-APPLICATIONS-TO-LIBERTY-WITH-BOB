@@ -2,6 +2,7 @@
 
 <center> <img src="2. ARQUITECTURA/WAS TO LIBERTY WITH BOB.jpg" width="2000" heigth="2000" /> </center> 
 
+
 # CONTEXTO:
 El siguiente documento detallará el PASO a PASO el manejo & recomendaciones para considerar en el escenario de MODERNIZACIÓN de una ENTERPRISE APPLICATION basado en WAS, para migrar su estructura completa & funcionalidad hacia IBM LIBERTY. 
 
@@ -15,7 +16,8 @@ _	ESTRUCTURA FINAL: (DESPUÉS).
 
 _	CONSIDERACIONES & RECOMENDACIONES: (CASO DE USO: MODERNIZACIÓN).  
 
-# OBJECTIVO:
+
+# OBJETIVO:
 Entender como trabajar con BOB para cubrir los escenarios asociados a MODERNIZACIÓN:
 
 _ El CASO DE USO en el cual se está enfocando esta SOLUCIÓN, es la MODERNIZACIÓN de PROYECTOS antiguos que actualmente tienen muchos clientes, que fueron hace 10 o 15 años implementados con TECNOLOGÍA WAS & que ahora son considerados como LEGACY.
@@ -23,7 +25,8 @@ _ El CASO DE USO en el cual se está enfocando esta SOLUCIÓN, es la MODERNIZACI
 _ Estas MODERNIZACIONES requieren de mucho conocimiento en PROGRAMACIÓN (en este caso JAVA) & de muchos meses de inversión de tiempo para ejecutarlos MANUALMENTE.
 
 _ BOB entra a ayudar en este trabajo, agilizando la MODERNIZACIÓN en un 800%, minimizando los tiempos & trabajo MANUAL en gran cantidad. 
- 	
+
+  
 
 # RECOMENDACIONES:
 Estas son algunas de las RECOMENDACIONES asocias al trabajo de MODERNIZACIÓN de aplicaciones empresariales JAVA con BOB:
@@ -45,6 +48,7 @@ _	NO se debe pensar que solo con ingresarle un PROMTP a BOB se realizará toda l
 _	BOB analizará el PROMPT ingresado & generará un PLAN de trabajo, para el cual irá solicitando CONFIRMACIÓN manual, para cada ejecución.
 
 Para ver el total de RECOMENDACIONES, descargar el documento. 
+
 
 # DOWNLOAD: 
 The entire solution procedure is explained in detail here: 
